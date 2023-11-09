@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="fetching_error_message">An error has occurred</string>
+</resources>
